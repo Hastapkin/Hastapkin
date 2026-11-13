@@ -12,7 +12,7 @@ I work where data analysis meets data engineering: getting raw data into reliabl
 | Analysis & ML | pandas, scikit-learn, mlxtend, XGBoost, PyTorch (coursework) |
 | BI & warehousing | Power BI, SSIS (ETL), SSAS (OLAP cubes, star schema) |
 | Data apps | Streamlit, NetworkX, Plotly |
-| Currently learning | Databricks: Unity Catalog, Delta Lake, Lakeflow pipelines |
+| Currently learning | Databricks (Unity Catalog, Delta Lake, Lakeflow pipelines); MLOps on Azure and AWS through two projects: Text-to-SQL and Voice-to-Text |
 
 ## Selected projects
 
