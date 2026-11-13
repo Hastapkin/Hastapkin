@@ -22,7 +22,7 @@ I work where data analysis meets data engineering: getting raw data into reliabl
 
 **[BI_DSS](https://github.com/Hastapkin/BI_DSS)**: business intelligence on the Superstore dataset: a Power BI dashboard, an SSIS ETL package, and an SSAS cube built on a star schema.
 
-**[ERP](https://github.com/Hastapkin/ERP)**: a gift-shop web app with a Gemini-powered assistant that recommends products from a catalog based on occasion, relationship and budget.
+**[gift-shop-ai-advisor](https://github.com/Hastapkin/gift-shop-ai-advisor)**: a gift-shop web app with a Gemini-powered assistant that recommends products from a catalog based on occasion, relationship and budget.
 
 ## Get in touch
 
