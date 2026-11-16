@@ -2,7 +2,7 @@
 
 Final-year **Information Systems** student (Advanced Program, taught entirely in English) based in **Ho Chi Minh City, Vietnam**, finishing my degree in January 2027 and available full time from February 2027.
 
-I like the layer where business processes meet the database: modelling the data, writing the logic that keeps it correct, and turning it into something people can use. I'm looking for an **SAP ABAP fresher / ERP developer** role, and I'm also open to **junior Data Engineer** and **Data Analyst** roles.
+I like the layer where business processes meet the database: modelling the data, writing the logic that keeps it correct, and turning it into something people can use. I'm looking for an **SAP ABAP fresher / ERP consultant** role, and I'm also open to **junior Data Engineer** and **Data Analyst** roles.
 
 ## What I work with
 
