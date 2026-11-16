@@ -10,8 +10,9 @@ I like the layer where business processes meet the database: modelling the data,
 |---|---|
 | Languages | SQL (Oracle PL/SQL, T-SQL), Python |
 | Databases | Oracle and SQL Server: schema design from ERD, stored procedures, functions, triggers, distributed design with database links |
-| Data integration | Oracle Data Integrator (ODI), SSIS, PL/SQL pipelines |
-| BI & warehousing | Power BI, SSIS (ETL), SSAS (OLAP cubes, star schema) |
+| Data integration | Oracle Data Integrator (ODI), SSIS, PL/SQL pipelines; exposure to Oracle GoldenGate |
+| BI & warehousing | Power BI, Oracle Analytics Server, SSAS (OLAP cubes, star schema) |
+| Systems | Linux command line, Oracle Database 19c installation and configuration |
 | Analysis & ML | pandas, scikit-learn, mlxtend, XGBoost, PyTorch (coursework) |
 | Data apps | Streamlit, NetworkX, Plotly |
 | Currently learning | Databricks: Unity Catalog, Delta Lake, Lakeflow pipelines |
@@ -19,10 +20,19 @@ I like the layer where business processes meet the database: modelling the data,
 
 ## Experience
 
-**OSAS Company**, Jun 2026 – Dec 2026 (internship, then probation, while studying)
+**Data Engineer Intern, OSAS Company** (internship, then probation, while studying)
 
-- **SQL Server to Oracle data migration**: migrated a client's data from SQL Server to Oracle Database using Oracle Data Integrator (ODI).
-- **Insurance data pipelines**: wrote PL/SQL and built data pipelines for a global insurance company.
+*Database migration and data warehouse for a public-sector client*
+
+- Supported the migration of the client's SQL Server (2012–2019) and MongoDB databases to Oracle Database 19c.
+- Wrote stored procedures that normalize data and compute aggregate fields before synchronization, and triggers that record data changes during it.
+- Verified the migrated tables against the sources and reported the results to the team lead.
+- Built ELT mappings in Oracle Data Integrator (Knowledge Modules, scenarios, load plans) for an internal data pipeline project.
+- Installed and configured Oracle Database 19c, ODI and Oracle Analytics Server on Linux, and wrote the installation and configuration guides.
+
+*Insurance data pipelines*
+
+- Wrote PL/SQL and built data pipelines for a global insurance company.
 
 ## Selected projects
 
