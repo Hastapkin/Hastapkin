@@ -1,6 +1,6 @@
 # Hi, I'm Tuan Pham 👋
 
-Final-year **Information Systems** student (Advanced Program, taught entirely in English) based in **Ho Chi Minh City, Vietnam**, finishing my degree in January 2027 and available full time from February 2027.
+Final-year **Information Systems** student (Advanced Program, taught entirely in English) based in **Ho Chi Minh City, Vietnam**, graduating on schedule in 2027 and available full time from February 2027.
 
 I like the layer where business processes meet the database: modelling the data, writing the logic that keeps it correct, and turning it into something people can use. I'm looking for an **SAP ABAP fresher / ERP consultant** role, and I'm also open to **junior Data Engineer** and **Data Analyst** roles.
 
@@ -17,27 +17,33 @@ I like the layer where business processes meet the database: modelling the data,
 | Data apps | Streamlit, NetworkX, Plotly |
 | Currently learning | Databricks: Unity Catalog, Delta Lake, Lakeflow pipelines |
 | Up next | SAP ABAP and the SAP ecosystem |
+| English | TOEIC Listening & Reading 740, Speaking & Writing 300 (July 2026); degree taught in English |
 
 ## Experience
 
 **Data Engineering, OSAS Company**, Jun 2025 – Present (joined as an intern, then probation, alongside full-time study)
 
-*Database migration and data warehouse for a public-sector client*
+*Data warehouse for a Vietnamese insurance company (Oracle Database, Oracle Data Integrator)*
 
-- Supported the migration of the client's SQL Server (2012–2019) and MongoDB databases to Oracle Database 19c.
+Sales and customer analytics domain of an Oracle data warehouse: source systems replicate into an operational data store, and a daily Oracle Data Integrator job loads staging and then the warehouse's dimension and fact tables with watermark-based incremental loads.
+
+- Built loads end to end for around five of the 15 tables in the domain: source views on the operational data store, ODI mappings into staging, and PL/SQL MERGE procedures into dimension and fact tables.
+- Wrote test cases that reconcile each loaded table against its source.
+- Traced missing data in a target table to a date-window mismatch between the staging extract and the load procedure, using ODI execution history; corrected it and reconciled source and target totals before handing the data to the business analyst.
+- Worked from tickets assigned by the team lead: read the requirement, built or fixed the load, tested it and returned the result.
+
+*Database migration for a public-sector client (SQL Server and MongoDB to Oracle Database 19c)*
+
 - Wrote stored procedures that normalize data and compute aggregate fields before synchronization, and triggers that record data changes during it.
 - Verified the migrated tables against the sources and reported the results to the team lead.
 - Built ELT mappings in Oracle Data Integrator (Knowledge Modules, scenarios, load plans) for an internal data pipeline project.
 - Installed and configured Oracle Database 19c, ODI and Oracle Analytics Server on Linux, and wrote the installation and configuration guides.
 
-*Data warehouse for an insurance company*
+## Education
 
-Sales and customer analytics domain of an Oracle data warehouse: source systems replicate into an operational data store, and a daily Oracle Data Integrator job loads staging and then the warehouse's dimension and fact tables with watermark-based incremental loads.
+**Bachelor of Information Systems, Advanced Program (taught entirely in English)**, University of Information Technology, VNU-HCM, 2022 – 2027
 
-- Built loads end to end for warehouse tables, working from tickets assigned by the team lead: source views on the operational data store, ODI mappings into staging, and PL/SQL MERGE procedures into the target tables.
-- Wrote test cases that check the loaded tables against the source data.
-- Investigated and fixed defects in existing pipelines. One example: traced missing data in a target table to a date-range mismatch in a scheduled incremental load, using ODI execution history, and corrected the schedule so every run covered its full range.
-- Reconciled source and target totals after each fix before handing the data over to the business analyst.
+Relevant coursework: Enterprise Resource Planning, Business Process Reengineering, Supply Chain Management, Systems Analysis and Design, Data, Process and Object Modeling, Information Systems Project Management, Distributed Database Systems, Object-Oriented Programming, Data Mining.
 
 ## Selected projects
 
