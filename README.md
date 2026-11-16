@@ -32,7 +32,8 @@ I like the layer where business processes meet the database: modelling the data,
 
 *Insurance data pipelines*
 
-- Wrote PL/SQL and built data pipelines for a global insurance company.
+- Developed PL/SQL procedures and data pipelines for a global insurance company, working from tickets assigned by the team lead.
+- Investigated and fixed defects in existing pipelines and delivered the fixes through the ticket workflow.
 
 ## Selected projects
 
