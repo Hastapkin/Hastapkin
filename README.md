@@ -30,9 +30,11 @@ I like the layer where business processes meet the database: modelling the data,
 - Built ELT mappings in Oracle Data Integrator (Knowledge Modules, scenarios, load plans) for an internal data pipeline project.
 - Installed and configured Oracle Database 19c, ODI and Oracle Analytics Server on Linux, and wrote the installation and configuration guides.
 
-*Insurance data pipelines*
+*Data warehouse for an insurance company*
 
-- Developed PL/SQL procedures and data pipelines for a global insurance company, working from tickets assigned by the team lead.
+Sales and customer analytics domain of an Oracle data warehouse: source systems replicate into an operational data store, and a daily Oracle Data Integrator job loads staging and then the warehouse's dimension and fact tables with watermark-based incremental loads.
+
+- Developed PL/SQL procedures and data pipelines, working from tickets assigned by the team lead.
 - Investigated and fixed defects in existing pipelines. One example: traced missing data in a target table to a date-range mismatch in a scheduled incremental load, using ODI execution history, and corrected the schedule so every run covered its full range.
 - Reconciled source and target totals after each fix before handing the data over to the business analyst.
 
