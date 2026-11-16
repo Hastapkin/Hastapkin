@@ -20,7 +20,7 @@ I like the layer where business processes meet the database: modelling the data,
 
 ## Experience
 
-**Data Engineer Intern, OSAS Company** (internship, then probation, while studying)
+**Data Engineering, OSAS Company**, Jun 2025 – Present (joined as an intern, then probation, alongside full-time study)
 
 *Database migration and data warehouse for a public-sector client*
 
