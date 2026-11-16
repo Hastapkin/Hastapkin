@@ -19,7 +19,7 @@ I like the layer where business processes meet the database: modelling the data,
 
 ## Experience
 
-**OSAS Company** (internship, then probation, while studying)
+**OSAS Company**, Jun 2026 – Dec 2026 (internship, then probation, while studying)
 
 - **SQL Server to Oracle data migration**: migrated a client's data from SQL Server to Oracle Database using Oracle Data Integrator (ODI).
 - **Insurance data pipelines**: wrote PL/SQL and built data pipelines for a global insurance company.
