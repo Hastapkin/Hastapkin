@@ -34,7 +34,8 @@ I like the layer where business processes meet the database: modelling the data,
 
 Sales and customer analytics domain of an Oracle data warehouse: source systems replicate into an operational data store, and a daily Oracle Data Integrator job loads staging and then the warehouse's dimension and fact tables with watermark-based incremental loads.
 
-- Developed PL/SQL procedures and data pipelines, working from tickets assigned by the team lead.
+- Built loads end to end for warehouse tables, working from tickets assigned by the team lead: source views on the operational data store, ODI mappings into staging, and PL/SQL MERGE procedures into the target tables.
+- Wrote test cases that check the loaded tables against the source data.
 - Investigated and fixed defects in existing pipelines. One example: traced missing data in a target table to a date-range mismatch in a scheduled incremental load, using ODI execution history, and corrected the schedule so every run covered its full range.
 - Reconciled source and target totals after each fix before handing the data over to the business analyst.
 
