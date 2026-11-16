@@ -33,7 +33,8 @@ I like the layer where business processes meet the database: modelling the data,
 *Insurance data pipelines*
 
 - Developed PL/SQL procedures and data pipelines for a global insurance company, working from tickets assigned by the team lead.
-- Investigated and fixed defects in existing pipelines and delivered the fixes through the ticket workflow.
+- Investigated and fixed defects in existing pipelines. One example: traced missing data in a target table to a date-range mismatch in a scheduled incremental load, using ODI execution history, and corrected the schedule so every run covered its full range.
+- Reconciled source and target totals after each fix before handing the data over to the business analyst.
 
 ## Selected projects
 
