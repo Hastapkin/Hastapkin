@@ -10,11 +10,19 @@ I like the layer where business processes meet the database: modelling the data,
 |---|---|
 | Languages | SQL (Oracle PL/SQL, T-SQL), Python |
 | Databases | Oracle and SQL Server: schema design from ERD, stored procedures, functions, triggers, distributed design with database links |
+| Data integration | Oracle Data Integrator (ODI), SSIS, PL/SQL pipelines |
 | BI & warehousing | Power BI, SSIS (ETL), SSAS (OLAP cubes, star schema) |
 | Analysis & ML | pandas, scikit-learn, mlxtend, XGBoost, PyTorch (coursework) |
 | Data apps | Streamlit, NetworkX, Plotly |
 | Currently learning | Databricks: Unity Catalog, Delta Lake, Lakeflow pipelines |
-| Up next | MLOps (planned projects: Text-to-SQL, Voice-to-Text), then Azure and AWS |
+| Up next | SAP ABAP and the SAP ecosystem |
+
+## Experience
+
+**OSAS Company** (internship, then probation, while studying)
+
+- **SQL Server to Oracle data migration**: migrated a client's data from SQL Server to Oracle Database using Oracle Data Integrator (ODI).
+- **Insurance data pipelines**: wrote PL/SQL and built data pipelines for a global insurance company.
 
 ## Selected projects
 
