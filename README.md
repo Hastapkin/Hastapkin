@@ -1,6 +1,6 @@
 # Hi, I'm Tuan Pham 👋
 
-Final-year **Information Systems** student (Advanced Program, taught entirely in English) based in **Ho Chi Minh City, Vietnam**, graduating on schedule in 2027 and available full time from February 2027.
+Final-year **Information Systems** student (Advanced Program, taught entirely in English) based in **Ho Chi Minh City, Vietnam**, graduating on schedule in 2027 and available full time from January 2027.
 
 I like the layer where business processes meet the database: modelling the data, writing the logic that keeps it correct, and turning it into something people can use. I'm looking for an **SAP ABAP fresher / ERP consultant** role, and I'm also open to **junior Data Engineer** and **Data Analyst** roles.
 
@@ -21,7 +21,7 @@ I like the layer where business processes meet the database: modelling the data,
 
 ## Experience
 
-**Data Engineering, OSAS Company**, Jun 2025 – Present (joined as an intern, then probation, alongside full-time study)
+**Data Engineering, OSAS Joint Stock Company**, Jun 2025 – Present (joined as an intern, then probation, alongside full-time study)
 
 *Data warehouse for a Vietnamese insurance company (Oracle Database, Oracle Data Integrator)*
 
@@ -34,10 +34,8 @@ Sales and customer analytics domain of an Oracle data warehouse: source systems 
 
 *Database migration for a public-sector client (SQL Server and MongoDB to Oracle Database 19c)*
 
-- Wrote stored procedures that normalize data and compute aggregate fields before synchronization, and triggers that record data changes during it.
-- Verified the migrated tables against the sources and reported the results to the team lead.
-- Built ELT mappings in Oracle Data Integrator (Knowledge Modules, scenarios, load plans) for an internal data pipeline project.
-- Installed and configured Oracle Database 19c, ODI and Oracle Analytics Server on Linux, and wrote the installation and configuration guides.
+- Supported post-migration checks, verifying the list of migrated databases and tables in Oracle against the SQL Server and MongoDB sources.
+- Installed and configured Oracle Database 19c on Linux.
 
 ## Education
 
