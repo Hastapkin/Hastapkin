@@ -10,8 +10,8 @@ I like the layer where business processes meet the database: modelling the data,
 |---|---|
 | Languages | SQL (Oracle PL/SQL, T-SQL), Python |
 | Databases | Oracle and SQL Server: schema design from ERD, stored procedures, functions, triggers, distributed design with database links |
-| Data integration | Oracle Data Integrator (ODI), SSIS, PL/SQL pipelines; exposure to Oracle GoldenGate |
-| BI & warehousing | Power BI, Oracle Analytics Server, SSAS (OLAP cubes, star schema) |
+| Data integration | Oracle Data Integrator (ODI), SSIS, PL/SQL pipelines |
+| BI & warehousing | Power BI, SSAS (OLAP cubes, star schema) |
 | Systems | Linux command line, Oracle Database 19c installation and configuration |
 | Analysis & ML | pandas, scikit-learn, mlxtend, XGBoost, PyTorch (coursework) |
 | Data apps | Streamlit, NetworkX, Plotly |
